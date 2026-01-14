@@ -4,7 +4,7 @@ A Flutter-based property booking application with a beautiful UI inspired by Boo
 
 ## Demo
 
-![App Demo](https://github.com/user-attachments/assets/07b06506-d40b-4695-9942-df6aaa1316b0)
+https://github.com/user-attachments/assets/07b06506-d40b-4695-9942-df6aaa1316b0
 
 
 ## Features Implemented
