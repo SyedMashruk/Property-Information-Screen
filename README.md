@@ -4,7 +4,7 @@ A Flutter-based property booking application with a beautiful UI inspired by Boo
 
 ## Demo
 
-![App Demo](https://github.com/SyedMashruk/Property-Information-Screen/blob/main/video/demo.mp4)
+![App Demo](video/demo.mp4)
 
 
 ## Features Implemented
